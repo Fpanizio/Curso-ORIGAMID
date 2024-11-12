@@ -4,6 +4,7 @@ import Aula2 from "./assets/Aulas/Aula2";
 import Aula3 from "./assets/Aulas/Aula3";
 import Aula4 from "./assets/Aulas/Aula4";
 import Aula5 from "./assets/Aulas/Aula5";
+import Aula6 from "./assets/Aulas/Aula6";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Aula3 />
       <Aula4 />
       <Aula5 />
+      <Aula6 />
     </>
   );
 };

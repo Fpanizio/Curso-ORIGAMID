@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Produto from "../components/Aula3/produto";
+import Produto from "../../components/Aula3/produto";
 
 const Aula3 = () => {
   //Aula 3

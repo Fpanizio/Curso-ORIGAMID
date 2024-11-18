@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Modal from "../components/Aula1/Modal";
-import ButtonModal from "../components/Aula1/ButtonModal";
+import Modal from "../../components/Aula1/Modal";
+import ButtonModal from "../../components/Aula1/ButtonModal";
 
 const Aula1 = () => {
   // Aula 1

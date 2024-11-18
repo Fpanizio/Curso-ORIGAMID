@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Produto from "../components/Aula5/Produto";
+import Produto from "../../components/Aula5/Produto";
 
 const Aula5 = () => {
   const [produto, setProduto] = useState(null);

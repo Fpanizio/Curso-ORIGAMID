@@ -9,7 +9,7 @@ import Aula7 from "./Aula7";
 import Aula8 from "./Aula8";
 import Exerc01 from "../../Exercicios/ReactHooks/Exercicio01/Exerc01";
 
-const Index = () => {
+const IndexReactHooks = () => {
   return (
     <>
       <Aula1 />
@@ -26,4 +26,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default IndexReactHooks;
